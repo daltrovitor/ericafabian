@@ -94,7 +94,7 @@ export function AboutSection() {
             transition={{ duration: 0.8 }}
             className="flex flex-col gap-2"
         >
-            <h2 className="text-6xl md:text-[10rem] leading-tight font-script text-black mb-4">
+            <h2 className="text-6xl md:text-[10rem] leading-tight font-display text-black mb-4">
                 Erica Fabian
             </h2>
             <div className="mt-6 md:mt-12 text-lg md:text-2xl font-light space-y-4 opacity-100">
@@ -320,7 +320,7 @@ export function FooterSection() {
             </div>
 
             <div className="flex flex-col md:flex-row justify-between items-center gap-10 border-t border-white/5 pt-10 opacity-30 font-display text-xs md:text-sm tracking-[0.5em] uppercase">
-                <p><span className="font-script text-2xl tracking-normal">Erica Fabian</span> / ARQUITETURA E URBANISMO</p>
+                <p><span className="font-display text-2xl tracking-normal">Erica Fabian</span> / ARQUITETURA E URBANISMO</p>
                 <div className="h-px w-20 bg-white/40 hidden md:block" />
                 <p>TODOS OS DIREITOS RESERVADOS</p>
             </div>

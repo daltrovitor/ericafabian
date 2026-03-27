@@ -75,7 +75,7 @@ export default function Header() {
                 transition={{ delay: 0.5 }}
                 className="absolute bottom-10 left-10 md:left-20 flex items-center gap-4"
             >
-              <span className="font-script text-5xl text-white opacity-80 whitespace-nowrap">Erica Fabian</span>
+              <span className="font-display text-5xl text-white opacity-80 whitespace-nowrap">Erica Fabian</span>
               <span className="font-display text-lg tracking-[0.3em] opacity-40 uppercase hidden md:block">/ PORTFÓLIO &apos;26</span>
             </motion.div>
 
